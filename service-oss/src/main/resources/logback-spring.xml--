@@ -11,7 +11,7 @@
     <!-- 日志的输出目录 -->
     <!-- Linux系统下的路径 -->
     <!--<property name="log.path" value="/opt/project/test/rzb_log/core" />-->
-    <property name="log.path" value="D:/project/test/rzb_log/gateway"/>
+    <property name="log.path" value="D:/project/test/rzb_log/oss"/>
 
     <!--控制台日志格式：彩色日志-->
     <!-- magenta:洋红 -->
